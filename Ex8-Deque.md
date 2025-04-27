@@ -4,11 +4,11 @@
 To write a C function to count the number of elements present in the deque.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Initialize a counter to 0.
+2. Check if the deque is empty.
+3. Traverse the deque from front to rear (for array) or from head node till the end (for linked list).
+4.  Increment the counter for each element encountered.
+5.  Increment the counter for each element encountered. 
 
 ## Program:
 ```
